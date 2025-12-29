@@ -1,7 +1,6 @@
 <p align="center">
  <img width="100px" src="https://cdn.fireflylabs.app/public/img/logo.png" align="center" />
  <h3 align="center">Firefly Labs</h3>
- <p align="center">A cross-chain bridge protocol for batch multi-chain interoperability with one click.</p>
 </p>
 
 <div align="center">
